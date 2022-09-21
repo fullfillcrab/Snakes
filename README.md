@@ -1,1 +1,1 @@
-Snakes Terminal Game made in Python
+Snakes Terminal Game made in Python using Curses
